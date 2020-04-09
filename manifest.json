@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "Dogeminer 2 Cheats",
+  "version": "1.0",
+  "description": "Why make this an extension? So you don't need to click on the bookmarklet every time!",
+  "icons": {
+    "48": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://dogeminer2.com/play/"
+      ],
+      "js": [
+        "ext.js"
+      ]
+    }
+  ]
+}
