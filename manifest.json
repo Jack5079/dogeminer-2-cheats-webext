@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
-  "name": "Dogeminer 2 Cheats",
+  "name": "(Unofficial) Dogeminer 2 Cheats",
   "version": "1.0",
-  "description": "Why make this an extension? So you don't need to click on the bookmarklet every time!",
+  "description": "The only cheat GUI for Dogeminer 2. Downloads and runs Dogeminer 2 Cheats (jack5079.github.io/dogeminer-2-cheats) every time you go to Dogeminer 2.",
   "icons": {
     "48": "icon.png"
   },
